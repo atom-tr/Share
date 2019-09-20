@@ -1,4 +1,4 @@
-# Hình ảnh Review & Hướng 
+# Hình ảnh Review & Hướng dẫn 
 
 ## Zalo Web
 <img src="/img/zalo_ToDo.jpg">
