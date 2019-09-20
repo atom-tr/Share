@@ -9157,7 +9157,7 @@ div.item .friend-request-item__close {
 .filter-button-item>.filter-text {
   top: 1px;
   width: calc(100% - 59px);
-  background: #343233 !important;
+  /*background: #343233 !important;*/
   white-space: nowrap;
   word-wrap: break-word;
   color: #ffd152 !important;
