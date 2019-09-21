@@ -10,6 +10,7 @@
 
 ###### 1. Để áp css vào site bạn muốn đầu tiên cần một Extension
 Ở đây mình sẽ hướng dẫn với [Stylus for Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)
+
   Trang chủ: https://add0n.com/stylus.html
 
 ###### 2. Sử dụng
@@ -18,7 +19,7 @@ Bấm vào icon của Stylus trên thanh công cụ Chrome/Brave > Bấm vào **
 <img src="/img/1.png">
 
 Trình duyệt sẽ mở ra tab mới của extensions
-Chọn **Write New Style** 
+  Chọn **Write New Style** 
 
 <img src="/img/2.png">
 
