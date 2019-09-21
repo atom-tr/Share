@@ -11794,7 +11794,7 @@ div.group-section-label {
 
 .chat-message .extra-btn {
   background-color: rgba(74, 74, 74, 0.3);
-  color: #343233 !important;
+  color: #343233;
   margin-bottom: 4px;
   border-color: transparent;
   border-radius: 6px;
