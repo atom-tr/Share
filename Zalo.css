@@ -14776,6 +14776,7 @@ div.chat-item.chat-list-item-selected {
 }
 
 .user-reacted-container.show-on-top {
+  background-color: #1f1f1f !important;
   bottom: calc(100% + 5px);
   top: initial;
 }
