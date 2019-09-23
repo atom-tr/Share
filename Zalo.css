@@ -10792,7 +10792,7 @@ div.group-section-label {
 .mention-popover__item>span {}
 
 .mention-popover__item.active-bg, .mention-popover__item.star-msgs__group__item__action {
-  background: #f2f5fa;
+  background: #5e5b5c;
 }
 
 .mention-popover__item:hover {
