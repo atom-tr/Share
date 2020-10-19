@@ -2,11 +2,11 @@ body {
 	color: #cecece;
 }
 
-a {
+a, h2 span {
 	color: #ffd152;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h3, h4, h5, h6 {
 	color: #cecece;
 }
 
@@ -19,7 +19,7 @@ h1, h2, h3, h4, h5, h6 {
 	border-bottom-color: #3e3e3e;
 }
 
-._17w2 {
+._17w2, ._8slc {
 	color: #cecece;
 }
 
